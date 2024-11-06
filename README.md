@@ -1,0 +1,2 @@
+# NYC-Dog-License-Analysis
+ A complete analysis of the dog licensing data in New York City, including graphs, statistics, and new insights  The New York City Dog Licensing Dataset is used as the basis for this entire assignment. The assignment includes data cleansing, statistical computations, and data visualization to identify interesting patterns within the dataset. The main goals are to investigate and identify various connections, create meaningful visualizations, and convey the findings through a comprehensive report.
